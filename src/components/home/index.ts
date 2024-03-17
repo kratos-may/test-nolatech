@@ -1,0 +1,8 @@
+export { default as HomeHero } from './hero'
+export { default as HomePopularCourse } from './second-page'
+export { default as HomeFirtPage } from './first-page'
+export { default as HomeCarrouse } from './carrousel'
+export { default as HomeNews } from './news'
+export { default as HomeMan } from './man'
+export { default as HomeLatestVideos} from './latest-videos'
+export { default as HomeJoinUs} from './join-us'
